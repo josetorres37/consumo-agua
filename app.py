@@ -1,7 +1,7 @@
 #Sistema de classificação do consumo de água
 #Projeto: consumo-agua
 print("=" * 40)
-print(" SISTEMA DE CONSUMO CONCIENTE DE ÁGUA")
+print(" SISTEMA DE CONSUMO CONSCIENTE DE ÁGUA")
 print("=" * 0)
 
 tipo_imovel = input(
